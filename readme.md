@@ -13,8 +13,5 @@
 4. Найти фишки и кубик
 5. Играть
 
-## Ссылки:
-- [Мой вариант на youtube](https://www.youtube.com/watch?v=GEcV7iR6QTc)
-
 ## Скриншоты:
 ![](https://github.com/accuratealx/WhiteCrow/raw/master/Игровое%20поле%20440x440.jpg)
